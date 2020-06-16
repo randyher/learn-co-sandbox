@@ -1,0 +1,11 @@
+var blacky="sleepy"
+
+if (blacky==="hungry"){
+  console.log("Give the homie food!")
+  }
+else if (blacky==="thirsty"){
+  console.log("Give the big homie agua!")
+  }
+else {
+  console.log("He don't need nada!")}
+  
